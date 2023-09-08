@@ -1,2 +1,2 @@
-console.log("Yolo Badge")
+console.log("Yolo Badge for my account")
 // 
